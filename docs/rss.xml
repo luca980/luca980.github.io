@@ -1,2 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Luca's Blog</title><link>https://luca980.github.io</link><description>Great minds think alike</description><copyright>Luca's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/210322238?v=4</url><title>avatar</title><link>https://luca980.github.io</link></image><lastBuildDate>Sun, 03 Aug 2025 07:54:41 +0000</lastBuildDate><managingEditor>Luca's Blog</managingEditor><ttl>60</ttl><webMaster>Luca's Blog</webMaster><item><title>Blog Test</title><link>https://luca980.github.io/post/Blog%20Test.html</link><description>Hello World。</description><guid isPermaLink="true">https://luca980.github.io/post/Blog%20Test.html</guid><pubDate>Sun, 03 Aug 2025 07:50:44 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Luca's Blog</title><link>https://luca980.github.io</link><description>Great minds think alike</description><copyright>Luca's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/210322238?v=4</url><title>avatar</title><link>https://luca980.github.io</link></image><lastBuildDate>Sun, 03 Aug 2025 08:02:34 +0000</lastBuildDate><managingEditor>Luca's Blog</managingEditor><ttl>60</ttl><webMaster>Luca's Blog</webMaster><item><title>Deno Note</title><link>https://luca980.github.io/post/Deno%20Note.html</link><description># Deno Note
+
+## 初始化项目
+
+```sh
+my_project
+├── deno.json // 来配置你的项目, 主配置文件
+├── main_test.ts // main.ts 文件是你编写应用代码的地方, 主入口文件
+└── main.ts // main_test.ts 文件是你编写测试的地方, 存放测试用例
+```
+
+## 配置 vscode 环境
+
+```sh
+在“扩展”选项卡中，搜索“Deno”并安装DenoLand 提供的扩展
+接下来，按 Ctrl+Shift+P 打开命令面板，然后输入 Deno: Initialize Workspace Configuration。</description><guid isPermaLink="true">https://luca980.github.io/post/Deno%20Note.html</guid><pubDate>Sun, 03 Aug 2025 08:02:09 +0000</pubDate></item><item><title>Blog Test</title><link>https://luca980.github.io/post/Blog%20Test.html</link><description>Hello World。</description><guid isPermaLink="true">https://luca980.github.io/post/Blog%20Test.html</guid><pubDate>Sun, 03 Aug 2025 07:50:44 +0000</pubDate></item></channel></rss>
